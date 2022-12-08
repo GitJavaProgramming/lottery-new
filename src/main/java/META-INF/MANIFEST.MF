@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Main-Class: org.pp.Client
+Class-Path: slf4j-log4j12-1.7.12.jar jython-standalone-2.7.3.jar httpcli
+ ent5-5.2.jar jackson-core-2.14.1.jar commons-logging-1.1.1.jar log4j-1.
+ 2.17.jar httpcore5-5.2.jar commons-codec-1.5.jar commons-io-2.11.0.jar 
+ commons-lang3-3.12.0.jar slf4j-api-1.7.12.jar jsoup-1.15.3.jar hutool-a
+ ll-5.8.5.jar httpcore5-h2-5.2.jar commons-beanutils-1.8.1.jar jackson-d
+ atabind-2.14.1.jar poi-3.8.jar commons-collections-3.2.2.jar jackson-an
+ notations-2.14.1.jar
+
